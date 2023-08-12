@@ -1,5 +1,5 @@
 # RazorPay-Payment-Gateway-Website
-This is a frontend payment web application using Tailwind CSS and Nodejs
+This is a Frontend Payment Web Application using Tailwind CSS and Nodejs
 
 Deployment-
 https://razorpay-payment-gateway-ankit.netlify.app/
